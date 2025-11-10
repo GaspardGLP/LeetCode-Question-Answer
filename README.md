@@ -16,21 +16,22 @@ L’objectif est d’améliorer mes compétences en **algorithmique**, en **opti
 
 Les solutions sont classées par **niveau de difficulté** selon LeetCode :
 
+```bash
 leetcode-solutions/
 │
 ├── easy/
-│ ├── 0001_two_sum.py
-│ ├── 0020_valid_parentheses.py
-│ └── ...
+│   ├── 0001_two_sum.py
+│   ├── 0020_valid_parentheses.py
+│   └── ...
 │
 ├── medium/
-│ ├── 0015_3sum.py
-│ ├── 0049_group_anagrams.py
-│ └── ...
+│   ├── 0015_3sum.py
+│   ├── 0049_group_anagrams.py
+│   └── ...
 │
 └── hard/
-├── 0023_merge_k_sorted_lists.py
-└── ...
+    ├── 0023_merge_k_sorted_lists.py
+    └── ...
 
 ---
 
