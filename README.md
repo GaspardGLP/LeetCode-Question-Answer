@@ -16,7 +16,6 @@ L’objectif est d’améliorer mes compétences en **algorithmique**, en **opti
 
 Les solutions sont classées par **niveau de difficulté** selon LeetCode :
 
-```bash
 leetcode-solutions/
 │
 ├── easy/
