@@ -38,7 +38,7 @@ Les solutions sont classées par **niveau de difficulté** selon LeetCode :
 
 | Difficulté | Nombre de problèmes résolus |
 | ---------- | --------------------------- |
-| 🟢 Easy    | 0                           |
+| 🟢 Easy    | 1                           |
 | 🟡 Medium  | 1                           |
 | 🔴 Hard    | 0                           |
 
