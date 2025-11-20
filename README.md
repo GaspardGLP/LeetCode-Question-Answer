@@ -40,7 +40,7 @@ Les solutions sont classées par **niveau de difficulté** selon LeetCode :
 | ---------- | --------------------------- |
 | 🟢 Easy    | 3                           |
 | 🟡 Medium  | 1                           |
-| 🔴 Hard    | 0                           |
+| 🔴 Hard    | 1                           |
 
 ---
 
